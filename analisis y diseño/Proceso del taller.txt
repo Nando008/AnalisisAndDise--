@@ -1,14 +1,14 @@
--> el proceso puede finalizar en cualquier momento
+-> el proceso puede finalizar en cualquier momento.
 
--> El cliente lleva su motor electrico al taller para revisión por un mal funcionamiento
+-> El cliente transporta su motor electrico al taller para revisión por un mal funcionamiento.
 
--> El motor se recibe y se realiza una revisión basica para encontrar un posible daño 
+-> El motor se recibe y se realiza una revisión basica para hallar un posible daño.
 
 -> si el daño es sencillo se notifica al cliente el costo de la refacción y que
 se puede realizar la refacción de inmediato.
 
--> si el cliente decide realizar la refacción se realizan los respectivos cambios, se genera la factura y finaliza el proceso,
-de lo contrario, el cliente se lleva su motor y finaliza el proceso. 
+-> si el cliente decide realizar la refacción, se realizan los respectivos cambios, se genera la factura, decidir el metodo 
+de pago (efectivo o tranferencia) y finaliza el proceso. De lo contrario, el cliente se lleva su motor y finaliza el proceso. 
 
 -> si el daño es complejo de identificar se notifica que se deber realizar una revisión completa.
 Seguido de esto el cliente debe registrar su nombre completo y numero telefonico
@@ -16,7 +16,8 @@ Seguido de esto el cliente debe registrar su nombre completo y numero telefonico
  
 -> Realizar la revisión completa. luego de identificar el daño se le notifica al cliente el estado del motor 
 y el costo de la refacción.
-Si el cliente autoriza la reparación, se continúa con el proceso. De lo contrario, se emite una factura por la revisión completa y
+
+->Si el cliente autoriza la reparación, se continúa con el proceso. De lo contrario, se emite una factura por la revisión completa y
 se realiza el cobro correspondiente, el cliente retira su motor y decide el metodo de pago (efectivo o tranferencia), 
 dando por finalizado el proceso
 
@@ -24,10 +25,10 @@ dando por finalizado el proceso
 
 -> luego de realizar la refacción se notifica al cliente el proceso realizado y que puede pasar por su motor.
 
--> Si cliente pasa por su motor y recibe la factura, procede a realizar el pago y decide el metodo de pago (efectivo o tranferencia),
-para dar fin al proceso, de lo contrario, sino recoge el motor los 15 días se vuelve a notificar que deber pasar por el motor. 
-si pasa un mes se vuelve a notificar que debe pasar por el motor, pero tambien se incluye que luego de este tiempo 
-no se responde por el producto y finaliza el proceso
+-> Si el cliente pasa por su motor se realiza la entrega de la factura, procede a realizar el pago y decide el 
+metodo de pago (efectivo o tranferencia), para dar fin al proceso, de lo contrario, sino recoge el motor cada 
+15 días se notificar que deber pasar por el motor durante un año. si pasa un año se vuelve a notificar que debe 
+pasar y que no se responde por el producto y finaliza el proceso
 
 
 
